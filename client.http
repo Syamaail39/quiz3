@@ -4,8 +4,7 @@ Content-Type: application/json
 {
     "username": "mael",
     "password": "12345",
-    "name": "el",
-    "email": "syamaail@utem.edu.my"
+ 
 }
 
 ###
